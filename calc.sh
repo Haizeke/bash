@@ -1,9 +1,9 @@
 #!/bin/bash
 
-read -p "Input first number" num1
-read -p "Input second number" num2
+read -p "Input first number:" num1
+read -p "Input second number:" num2
 
-read -p "Which operation do you intend to perform with these two numbers(+, -, *)" operation
+read -p "Which operation do you intend to perform with these two numbers(+, -, *):" operation
 
 
 
